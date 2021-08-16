@@ -21,6 +21,6 @@ Q2 Referenced Jars - Contains all jars
 test-output - Contain all test output in HTML format
 
 
-Software Used:
+References/Jars:
 
 Java ,Selenium, TestNG
