@@ -2,7 +2,6 @@
 
 This repositary contains all items related to Questions 2.
 
-
 Please find below classes present under location "Q2 Repo > src > test > java > CBA > CBAAssessment"
 
 Q2Test.java - Contains test case and main method to run the test case
